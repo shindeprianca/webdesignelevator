@@ -1,0 +1,247 @@
+/* This is Style Css */
+
+			/* Transform is used for giving transition effects */
+			.cardtransform{
+			
+			transition:transform 2s;
+			
+			}
+			
+			.cardtransform:hover{
+			
+			transform:scale(1.05);
+			
+			}
+			
+			/* This is for aligning content in the center */
+			.poscenter{
+			
+			text-align:center;
+			
+			}
+	
+			.naveffects:hover{
+			
+			background-color:#444444;
+			border:1px solid white;
+			border-radius:10px;
+			transform:scale(1.08);
+			
+			}
+			
+			/* This is for the banner page of the content */
+			.banner{
+			
+			font-family: 'Abril Fatface', cursive;
+			font-size:30px;
+			color:white;
+			font-weight:5px;
+			letter-spacing:2px;			
+			}
+			
+			
+			/* This is for the banner page of the content */
+			.bannerhead{
+			
+			font-size:50px;
+			text-transform:uppercase;
+			text-decoration:underline;			
+			}
+			
+			/* This is for the information page head of the content */
+			.infohead{
+			
+			font-size:25px;
+			font-family: 'Acme', sans-serif;
+			border:8px solid black;
+			border-radius:16px;
+			background-color:black;
+			color:white;
+			text-decoration:underline;
+			}
+			
+			
+			/* This is for the information page of the content */
+			.infocontent{
+			
+			font-size:18px;
+			font-weight:normal;
+			//font-family: 'Aclonica', sans-serif;
+			font-family: 'Lalezar', cursive;
+			//color:#75707d;
+			color:black;
+			
+			}
+			
+			
+			/* This is for card head of the card index page*/
+			.cardhead{
+			
+			font-weight:bold;
+			font-size:20px;
+			font-family: 'Acme', sans-serif;
+			border:6px solid black;
+			border-radius:10px;
+			background-color:black;
+			color:white;
+			text-decoration:underline;
+			
+			}
+			
+			
+			/* This is for card content of the card index page*/
+			.cardcontent{
+			
+			font-weight:bold;
+			font-size:15px;
+			//font-family: 'Aclonica', sans-serif;
+			font-family: 'Lalezar', cursive;
+			//color:#75707d;
+			color:black;
+			
+			}
+			
+			/* This is for footer text */
+			.footertext{
+				
+			font-size:25px;
+			
+			}
+			
+			/* This is for contact us*/
+			.contactus{
+				
+			margin-top:500px;
+			
+			
+			}
+			
+			.team{
+			height:300x;
+			width:100%;
+			
+			}
+			
+			/* Transform is used for giving transition effects */
+			.cardtransform{
+			
+			transition:transform 2s;
+			
+			}
+			
+			
+			.cardtransform:hover	{
+			
+			transform:scale(1.05);
+			
+			}
+			
+			/* This is for aligning content in the center */
+			.poscenter{
+			
+			text-align:center;
+			
+			
+			}
+			
+			
+			/* This is for the banner page of the content */
+			.banner{
+			
+			font-family: 'Abril Fatface', cursive;
+			font-size:30px;
+			color:white;
+			font-weight:5px;
+			letter-spacing:2px;			
+			}
+			
+			
+			/* This is for the banner page of the content */
+			.bannerhead{
+			
+			font-size:50px;
+			text-transform:uppercase;
+			text-decoration:underline;			
+			}
+			
+			
+			
+			/* This is for footer text */
+			.footertext{
+				
+			font-size:20px;
+			margin-bottom:0px;
+			}
+			
+			.footertext:hover{
+			
+			text-decoration:underline;
+			font-size:25px;
+			}
+			
+			.footericons{
+			color:white;	
+			margin-bottom:15px;	
+			font-size:30px;
+			
+			
+			}
+			
+			.footericons:hover{
+				
+			font-size:32px;
+			
+			
+			}
+			
+			.btneffect{
+				
+				border:2px solid blue;
+				background-color:blue;
+				color:white;
+				
+			}
+			
+			.btneffect:hover{
+				
+				background-color:white;
+				color:blue;
+				transform:scale(1.1);
+				
+			}
+
+			.footer_anim{
+				text-align:center;
+				animation-name:myanim;
+				animation-duration:30s;
+				position:relative;
+				animation-iteration-count:1;
+
+	 
+			}
+			
+			@keyframes myanim{
+				
+				from{left:0px;top:0px;}
+				to{left:100%;top:0px;}
+			}
+			
+			.form-control{
+				
+				color:blue;
+			}
+			
+			.contactcontent{
+				font-family: 'Lalezar', cursive;
+				font-size:20px;
+			}
+			
+			.services{
+				
+				font-size:23px;
+			}
+			
+			.aboutus{
+				
+				font-size:20	px;
+			}
